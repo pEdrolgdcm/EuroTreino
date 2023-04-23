@@ -1,6 +1,6 @@
 # EuroTreino
 
-##Funcionalidade do projeto:
+### Funcionalidade do projeto:
 * Adicionar/remover alunos;
 * Adcionar/remover equipamento;
 * Verificar/contabilizar pagamentos;
