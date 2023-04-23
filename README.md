@@ -7,4 +7,4 @@ Projeto totalmente funcional, suportando:
 * Elaborar ficha de treino.
 
 
-### Tudo que uma academia precisaria para funcionar!
+## Tudo que uma academia precisaria para funcionar!
