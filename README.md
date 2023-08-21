@@ -9,6 +9,5 @@
 ### Habilidades desenvolvidas no projeto:
 * Trabalho em equipe;
 * Compromisso com prazos;
-* MySql;
+* SQL;
 * Java;
-* Java orientado objetos.
